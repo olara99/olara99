@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @olara99
 - 👀 I’m interested in PHP JavaScript HTML CSS flutter SQL python 
-- 🌱 I’m currently learning PHP python react
+- 🌱 I’m currently learning PHP python and react
 - 💞️ I’m looking to collaborate on KeepMe
 - 📫 How to reach me samuelolara99@gmail.com
 
